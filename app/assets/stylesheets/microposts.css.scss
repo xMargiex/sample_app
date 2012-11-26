@@ -17,35 +17,35 @@ h1 {
 
 	
 
-	-moz-border-radius-bottomleft:18px;
+	-moz-border-radius-bottomleft:0px;
 
-	-webkit-border-bottom-left-radius:18px;
+	-webkit-border-bottom-left-radius:0px;
 
-	border-bottom-left-radius:18px;
-
-	
-
-	-moz-border-radius-bottomright:18px;
-
-	-webkit-border-bottom-right-radius:18px;
-
-	border-bottom-right-radius:18px;
+	border-bottom-left-radius:0px;
 
 	
 
-	-moz-border-radius-topright:18px;
+	-moz-border-radius-bottomright:0px;
 
-	-webkit-border-top-right-radius:18px;
+	-webkit-border-bottom-right-radius:0px;
 
-	border-top-right-radius:18px;
+	border-bottom-right-radius:0px;
 
 	
 
-	-moz-border-radius-topleft:18px;
+	-moz-border-radius-topright:0px;
 
-	-webkit-border-top-left-radius:18px;
+	-webkit-border-top-right-radius:0px;
 
-	border-top-left-radius:18px;
+	border-top-right-radius:0px;
+
+	
+
+	-moz-border-radius-topleft:0px;
+
+	-webkit-border-top-left-radius:0px;
+
+	border-top-left-radius:0px;
 
 }.CSSTableGenerator table{
 
@@ -57,39 +57,39 @@ h1 {
 
 }.CSSTableGenerator tr:last-child td:last-child {
 
-	-moz-border-radius-bottomright:18px;
+	-moz-border-radius-bottomright:0px;
 
-	-webkit-border-bottom-right-radius:18px;
+	-webkit-border-bottom-right-radius:0px;
 
-	border-bottom-right-radius:18px;
+	border-bottom-right-radius:0px;
 
 }
 
 .CSSTableGenerator table tr:first-child td:first-child {
 
-	-moz-border-radius-topleft:18px;
+	-moz-border-radius-topleft:0px;
 
-	-webkit-border-top-left-radius:18px;
+	-webkit-border-top-left-radius:0px;
 
-	border-top-left-radius:18px;
+	border-top-left-radius:0px;
 
 }
 
 .CSSTableGenerator table tr:first-child td:last-child {
 
-	-moz-border-radius-topright:18px;
+	-moz-border-radius-topright:0px;
 
-	-webkit-border-top-right-radius:18px;
+	-webkit-border-top-right-radius:0px;
 
-	border-top-right-radius:18px;
+	border-top-right-radius:0px;
 
 }.CSSTableGenerator tr:last-child td:first-child{
 
-	-moz-border-radius-bottomleft:18px;
+	-moz-border-radius-bottomleft:0px;
 
-	-webkit-border-bottom-left-radius:18px;
+	-webkit-border-bottom-left-radius:0px;
 
-	border-bottom-left-radius:18px;
+	border-bottom-left-radius:0px;
 
 }.CSSTableGenerator tr:hover td{
 
@@ -117,11 +117,11 @@ h1 {
 
 	font-size:10px;
 
-	font-family:Arial;
+	font-family:Verdana;
 
 	font-weight:normal;
 
-	color:#000000;
+	color:#0000ff;
 
 }.CSSTableGenerator tr:last-child td{
 
@@ -139,12 +139,12 @@ h1 {
 
 .CSSTableGenerator tr:first-child td{
 
-		background:-o-linear-gradient(bottom, #ff00ff 5%, #bf5f00 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff00ff), color-stop(1, #bf5f00) );
-	background:-moz-linear-gradient( center top, #ff00ff 5%, #bf5f00 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff00ff", endColorstr="#bf5f00");	background: -o-linear-gradient(top,#ff00ff,bf5f00);
+		background:-o-linear-gradient(bottom, #ff007f 5%, #ff007f 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff007f), color-stop(1, #ff007f) );
+	background:-moz-linear-gradient( center top, #ff007f 5%, #ff007f 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff007f", endColorstr="#ff007f");	background: -o-linear-gradient(top,#ff007f,ff007f);
 
 
-	background-color:#ff00ff;
+	background-color:#ff007f;
 
 	border:0px solid #0000ff;
 
@@ -152,24 +152,24 @@ h1 {
 
 	border-width:0px 0px 1px 1px;
 
-	font-size:14px;
+	font-size:27px;
 
-	font-family:Arial;
+	font-family:Verdana;
 
 	font-weight:bold;
 
-	color:#ffffff;
+	color:#0000ff;
 
 }
 
 .CSSTableGenerator tr:first-child:hover td{
 
-	background:-o-linear-gradient(bottom, #ff00ff 5%, #bf5f00 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff00ff), color-stop(1, #bf5f00) );
-	background:-moz-linear-gradient( center top, #ff00ff 5%, #bf5f00 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff00ff", endColorstr="#bf5f00");	background: -o-linear-gradient(top,#ff00ff,bf5f00);
+	background:-o-linear-gradient(bottom, #ff007f 5%, #ff007f 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff007f), color-stop(1, #ff007f) );
+	background:-moz-linear-gradient( center top, #ff007f 5%, #ff007f 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff007f", endColorstr="#ff007f");	background: -o-linear-gradient(top,#ff007f,ff007f);
 
 
-	background-color:#ff00ff;
+	background-color:#ff007f;
 
 }
 
